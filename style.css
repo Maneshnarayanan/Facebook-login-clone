@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    
+}
+
+img{
+    
+    width: 240px;    
+    border: 0;
+    margin-top: 106px;
+    margin-left: 574px;
+
+}
+
+.container{
+    width: 100%;
+    background-color: #f0f2f5;
+    height: 100rem;
+    
+}
+
+.form-div{
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: auto;
+    padding: 26px  0 14px 0;
+    width: 396px;
+    text-align: center;
+    background-color: #fff;
+    height: 275px;
+}
+.head1{
+    color: #1c1e21;
+    font-weight: 500;
+    margin-top: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    direction: ltr;
+}
+.input-field{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    margin-top: 20px;
+    width: 296px;
+    background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+    border: 1px solid #dddfe2;
+    font-family: Helvetica, Arial, sans-serif;  
+    vertical-align: middle;
+}
+
+.login-button{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 700;
+}
+
+.login-button:hover{
+    background-color: #166fe5;
+}
+
+
+.link-forgot{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 20px;
+
+  }
+  
